@@ -2,7 +2,7 @@
 
 
 * <b>Solution Class:</b> [TypingGame](TypingGame01)
-* <b>Solved:</b> Thursday, February 15 <sup>th</sup>, 2018
+* <b>Completed:</b> Thursday, February 15 <sup>th</sup>, 2018
 
 <b>Description:</b>
 
