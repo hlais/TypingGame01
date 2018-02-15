@@ -1,0 +1,10 @@
+C:\Users\Isolated Gamerz\source\repos\TypingGame01\TypingGame01\bin\Debug\TypingGame01.exe.config
+C:\Users\Isolated Gamerz\source\repos\TypingGame01\TypingGame01\bin\Debug\TypingGame01.exe
+C:\Users\Isolated Gamerz\source\repos\TypingGame01\TypingGame01\bin\Debug\TypingGame01.pdb
+C:\Users\Isolated Gamerz\source\repos\TypingGame01\TypingGame01\obj\Debug\TypingGame01.csprojResolveAssemblyReference.cache
+C:\Users\Isolated Gamerz\source\repos\TypingGame01\TypingGame01\obj\Debug\TypingGame01.Form1.resources
+C:\Users\Isolated Gamerz\source\repos\TypingGame01\TypingGame01\obj\Debug\TypingGame01.Properties.Resources.resources
+C:\Users\Isolated Gamerz\source\repos\TypingGame01\TypingGame01\obj\Debug\TypingGame01.csproj.GenerateResource.Cache
+C:\Users\Isolated Gamerz\source\repos\TypingGame01\TypingGame01\obj\Debug\TypingGame01.csproj.CoreCompileInputs.cache
+C:\Users\Isolated Gamerz\source\repos\TypingGame01\TypingGame01\obj\Debug\TypingGame01.exe
+C:\Users\Isolated Gamerz\source\repos\TypingGame01\TypingGame01\obj\Debug\TypingGame01.pdb
